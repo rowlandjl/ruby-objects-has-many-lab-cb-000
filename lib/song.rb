@@ -3,9 +3,11 @@ class Song
 
   @@all = []
 
+  self.
+
   def initialize(name)
     @name = name
-    @@all << self
+    self.all << self
   end
 
 end
