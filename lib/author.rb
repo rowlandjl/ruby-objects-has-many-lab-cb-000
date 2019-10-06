@@ -5,4 +5,16 @@ class Author
     @name = name
   end
 
+  def posts 
+  end 
+
+  def add_post 
+  end 
+
+  def add_post_by_title
+  end 
+
+  def self.post_count 
+  end 
+
 end
