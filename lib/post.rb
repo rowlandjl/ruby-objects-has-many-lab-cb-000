@@ -1,4 +1,5 @@
 class Post
+  attr_accessor :title
 
   @@all = []
 
@@ -8,7 +9,7 @@ class Post
 
   def initialize(title)
     @title = title
-    self.class.all << self 
+    self.class.all << self
   end
 
 end
