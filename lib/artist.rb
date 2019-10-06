@@ -10,6 +10,6 @@ class Artist
   end
 
   def song_count
-    ed 
+  end
 
 end
