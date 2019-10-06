@@ -12,4 +12,7 @@ class Post
     self.class.all << self
   end
 
+  def author_name
+  end 
+
 end
