@@ -1,3 +1,6 @@
 class Artist
 
-end 
+  def initialize(name)
+  end 
+
+end
